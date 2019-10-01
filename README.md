@@ -1,5 +1,7 @@
 # ZugZug
 
+[![Build Status](https://travis-ci.org/r3trofitted/zug_zug.svg?branch=master)](https://travis-ci.org/r3trofitted/zug_zug)
+
 Hook Warcraft sounds to your Git commands
 
 ## Installation
