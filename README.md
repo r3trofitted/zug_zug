@@ -22,7 +22,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    cd /your/repo
+    zug_zug join <alliance|horde>
 
 ## Development
 
