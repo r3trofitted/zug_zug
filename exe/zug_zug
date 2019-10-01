@@ -1,3 +1,4 @@
 #!/usr/bin/env ruby
 
-require "zug_zug"
+require "zug_zug/cli"
+ZugZug::CLI.start

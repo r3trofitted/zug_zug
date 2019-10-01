@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "zug_zug/quarter_master"
+
+ZugZug::QuarterMaster.new(:<%= config[:faction] %>).merged! ARGV
